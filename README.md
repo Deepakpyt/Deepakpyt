@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-DeepakNashtech-181717?style=flat-square&logo=github" />
   </a>
   <a href="https://github.com/Deepakpyt">
-    <img src="https://img.shields.io/badge/GitHub-DeepakNashtech-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Deepakpyt-181717?style=flat-square&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/React-Expert-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-Expert-3178C6?style=flat-square&logo=typescript&logoColor=white" />
